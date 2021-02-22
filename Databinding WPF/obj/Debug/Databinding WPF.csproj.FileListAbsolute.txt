@@ -1,0 +1,15 @@
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\bin\Debug\Databinding WPF.exe.config
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\bin\Debug\Databinding WPF.exe
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\bin\Debug\Databinding WPF.pdb
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\MainWindow.g.cs
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\App.g.cs
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF_MarkupCompile.cache
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF_MarkupCompile.lref
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\MainWindow.baml
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF.g.resources
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding_WPF.Properties.Resources.resources
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF.exe
+C:\Users\mirce\source\repos\Databinding WPF\Databinding WPF\obj\Debug\Databinding WPF.pdb
