@@ -26,14 +26,15 @@ namespace Databinding_WPF
             cmbFill.Items.Add("Red");
             cmbFill.Items.Add("Blue");
             cmbFill.Items.Add("Green");
+            cmbColor.Items.Add("Blue");
+            cmbColor.Items.Add("Yellow");
             
         }
 
-        
-
-        private void cmbFill_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void SliderFrame_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            
+           
+            Ellipse.StrokeThickness = SliderFrame.Value;
         }
     }
 }

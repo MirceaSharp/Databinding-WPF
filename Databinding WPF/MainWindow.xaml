@@ -9,11 +9,11 @@
     <Grid>
         <Ellipse Name="Ellipse" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100" Margin="41,51,0,0"/>
         <Label Content="Ellipse filling" HorizontalAlignment="Left" Height="29" Margin="189,18,0,0" VerticalAlignment="Top" Width="116"/>
-        <ComboBox Text="{Binding ElementName=Ellipse, Path=Fill, Mode=TwoWay}" Name="cmbFill" HorizontalAlignment="Left" Height="27" Margin="189,52,0,0" VerticalAlignment="Top" Width="126" SelectionChanged="cmbFill_SelectionChanged"/>
+        <ComboBox Text="{Binding ElementName=Ellipse, Path=Fill, Mode=TwoWay}" Name="cmbFill" HorizontalAlignment="Left" Height="27" Margin="189,52,0,0" VerticalAlignment="Top" Width="126" />
         <Label Content="Ellipse frame thickness" HorizontalAlignment="Left" Height="28" Margin="189,98,0,0" VerticalAlignment="Top" Width="140"/>
-        <Slider  HorizontalAlignment="Left" Height="21" Margin="189,137,0,0" VerticalAlignment="Top" Width="126" Maximum="20" LargeChange="2" TickPlacement="BottomRight" Foreground="#FFA0352A" Background="#FF3DA626"/>
+        <Slider Name="SliderFrame" HorizontalAlignment="Left" Height="21" Margin="189,137,0,0" VerticalAlignment="Top" Width="126" Maximum="20" Minimum="0" LargeChange="2" TickPlacement="BottomRight" Foreground="#FFA0352A" Background="#FF3DA626" ValueChanged="SliderFrame_ValueChanged"/>
         <Label Content="Color ellipse frame" HorizontalAlignment="Left" Height="25" Margin="196,175,0,0" VerticalAlignment="Top" Width="119"/>
-        <ComboBox Name="cmbColor" HorizontalAlignment="Left" Height="21" Margin="189,211,0,0" VerticalAlignment="Top" Width="126">
+        <ComboBox Text="{Binding ElementName=Ellipse, Path=Stroke, Mode=TwoWay}" Name="cmbColor" HorizontalAlignment="Left" Height="21" Margin="189,211,0,0" VerticalAlignment="Top" Width="126">
             
         </ComboBox>
         <Label Content="Height ellipse" HorizontalAlignment="Left" Height="28" Margin="196,252,0,0" VerticalAlignment="Top" Width="119"/>
