@@ -26,9 +26,15 @@ namespace Databinding_WPF
             cmbFill.Items.Add("Red");
             cmbFill.Items.Add("Blue");
             cmbFill.Items.Add("Green");
+            cmbFill.Items.Add("Peru");
+           
             cmbColor.Items.Add("Blue");
             cmbColor.Items.Add("Yellow");
+            cmbColor.Items.Add("Purple");
+            cmbColor.Items.Add("MediumAquamarine");
             
+
+
         }
 
         private void SliderFrame_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
